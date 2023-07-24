@@ -19,25 +19,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            A Computer engineering undergraduate who is seeking to find the opportunity to work in a fun and challenging working environment that will encourage him to improve and learn new and necessary skills as well as be motivated by the company to do his best for the sake of helping himself and the company advancement in the software engineerig industry.
+            A Computer engineering undergraduate seeking the opportunity to work in a fun and challenging working environment that will encourage me to improve and learn new and necessary skills as well as be motivated by the company to do my best for the sake of helping himself and the company advancement in the software engineerig industry.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple">Javascript and C++. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interests are building  &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b></i> and
-                also in areas related to{" "}
+                <b className="purple">Web applications/Products </b></i> based on niche ideas
+                also i am enthusiastic towards {" "}
                 <i> <b className="purple">
                   Machine Learning.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+              Whenever possible, I also apply my passion for developing applications
               with <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
